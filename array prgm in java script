@@ -1,0 +1,11 @@
+const arr =[10,20,30,40];
+console.log(arr[3]);
+
+const obj={
+  name:"wnbrt",
+  "roll":12,
+  class:"A"
+};
+console.log(obj.roll);
+console.log(obj.class);
+console.log(obj.name);
